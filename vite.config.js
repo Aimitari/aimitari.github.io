@@ -10,7 +10,7 @@ export default {
     hot: true,
   },
   build: {
-    outDir: '../dist',
+    outDir: '../docs',
     rollupOptions: {
       output: {
         assetFileNames: 'assets/[name].[ext]',
