@@ -1,0 +1,37 @@
+@import 'mdb-ui-kit/css/mdb.min.css';
+
+@media (max-width: 991px) {
+    .navbar-scroll {
+      background-color: #3e4551;
+    }
+  }
+
+  .navbar-scroll .navbar-brand {
+    color: #fff;
+  }
+
+  .navbar-scrolled {
+    background-color: #3e4551;
+  }
+
+  .navbar-scrolled .navbar-brand,
+  .navbar-scrolled .nav-link,
+  .navbar-scrolled .fa-bars {
+    color: #fff;
+  }
+
+  .price:before,
+  .price:after {
+    position: absolute;
+    font-size: 1.5rem;
+  }
+
+  .price:before {
+    content: '$';
+    margin-left: -1rem;
+  }
+
+  .price:after {
+    content: '/mo';
+    margin-top: 1.61rem;
+  }
