@@ -12,3 +12,5 @@ git add --all
 git commit -m 'Witty comment'
 git push origin main
 ```
+
+Visible at https://aimitati.github.io
