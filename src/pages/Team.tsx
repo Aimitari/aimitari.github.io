@@ -15,7 +15,7 @@ const Team = () => {
     bio: "More than 30 years of leadership experience in both Public and Private sectors. Appointments include Professor of Business at STI, Founder and Managing Director of Rohde & Schwarz and Centre Director at Singapore EDBI in Germany.",
     achievements: ["Professor at STI", "Former MD at Rohde & Schwarz", "Centre Director at Singapore EDBI"],
     location: "Singapore",
-    photo: "/src/assets/team/lim-boon-huat.jpg"
+    photo: "/assets/team/lim-boon-huat.jpg"
   }, {
     name: "Rajashekar Durai",
     role: "Chief Executive Officer",
@@ -25,7 +25,7 @@ const Team = () => {
     bio: "More than 25 years of R&D and Product development experience building & assembling teams to bring the best entrepreneurial spirit resulting in an optimal and innovative solution/product with a stronger customer focus.",
     achievements: ["Product Development Leader", "Team Building Expert", "Innovation Driver"],
     location: "Singapore",
-    photo: "/src/assets/team/rajashekar-durai.jpg"
+    photo: "/assets/team/rajashekar-durai.jpg"
   }, {
     name: "Ben Lim",
     role: "Chief Technology Officer",
@@ -35,7 +35,7 @@ const Team = () => {
     bio: "More than 20 years of R&D, Product development and Marketing experience. Specialize in semiconductor advanced packaging, assembly materials, power electronics and hard-disk media industry.",
     achievements: ["Semiconductor Expert", "Advanced Packaging Specialist", "Power Electronics Innovation"],
     location: "Singapore",
-    photo: "/src/assets/team/ben-lim.jpg"
+    photo: "/assets/team/ben-lim.jpg"
   }, {
     name: "Dr. T. Ravintharan",
     role: "Chief Medical Officer",
@@ -45,39 +45,39 @@ const Team = () => {
     bio: "Senior Consultant Surgeon- Hand-Oncological-General-Advanced Laparoscopic Surgery with over 30 years experience at Mount Elizabeth Hospital in Singapore.",
     achievements: ["Senior Consultant Surgeon", "30+ Years Clinical Experience", "Mount Elizabeth Hospital"],
     location: "Singapore",
-    photo: "/src/assets/team/ravintharan.jpg"
+    photo: "/assets/team/ravintharan.jpg"
   }];
   const advisors = [{
     name: "Sebastian Zilliacus",
     role: "Advisor",
     expertise: "Tech Startups & International BD",
     affiliation: "20+ years driving tech startups to successful listings. Expertise in social networks, e-commerce, international BD",
-    photo: "/src/assets/team/sebastian-zilliacus.jpg"
+    photo: "/assets/team/sebastian-zilliacus.jpg"
   }, {
     name: "Anup Pradhan",
     role: "Advisor",
     expertise: "Deep AI/ML & Cloud Computing",
     affiliation: "25+ years leveraging deep technical and research expertise. Deep AI/ML, cloud computing, data warehousing systems and big data workflow architecture",
-    photo: "/src/assets/team/anup-pradhan.jpg"
+    photo: "/assets/team/anup-pradhan.jpg"
   }, {
     name: "Alexander Gummenscheimer",
     role: "Advisor",
     expertise: "Medical R&D & Investments",
     affiliation: "Entrepreneurial experience across medical, R&D and investments. Expertise in finance, investments management, market mapping and value-creating strategies",
-    photo: "/src/assets/team/alex-gummenscheimer.jpg"
+    photo: "/assets/team/alex-gummenscheimer.jpg"
   }, {
     name: "Russell Woo",
     role: "Advisor",
     expertise: "Strategic Partnerships & Growth",
     affiliation: "Strategic partnerships and product-led/scalable growth in healthcare, fitness, and public sector. Expertise in data-driven strategies to solve commercial challenges and drive business results",
-    photo: "/src/assets/team/russell-woo.jpg"
+    photo: "/assets/team/russell-woo.jpg"
   }];
   const medicalExperts = [{
     name: "Dr. K. Narayanan",
     role: "Medical Domain Expert",
     expertise: "Nephrology & Transplant",
     affiliation: "Senior Consultant Nephrologist and Transplant Physician. 25+ years of experience, supervising 5000+ Dialysis sessions and establishments, 28 Dialysis centres",
-    photo: "/src/assets/team/narayanan.jpg"
+    photo: "/assets/team/narayanan.jpg"
   }, {
     name: "Dr. Varun Reddy",
     role: "Medical Domain Expert",
