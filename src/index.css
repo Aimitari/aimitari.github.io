@@ -137,6 +137,12 @@
     @apply border-border;
   }
 
+  html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
   body {
     @apply bg-background text-foreground font-sans antialiased;
   }
@@ -148,6 +154,12 @@
 
   section {
     scroll-margin-top: 80px;
+  }
+
+  #root {
+    width: 100%;
+    margin: 0;
+    padding: 0;
   }
 }
 
